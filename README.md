@@ -18,7 +18,7 @@ you can either clone the repo to your desktop and run the app there or you can f
 ## Usage
 https://murmuring-eyrie-17229-46101c2c2868.herokuapp.com
 ## Tests
-i hvae tested the app on my desktop and it worked on my end
+i have tested the app on my desktop and it worked on my end
 ## Contribute
 if you see any problems you can either try to solve it or if you ahve any ideas to help me you can contact me on github
 ## Contributors
