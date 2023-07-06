@@ -11,8 +11,6 @@
 * [Questions](#questions)
 ## Description
 this allows any user to create notes, write some of there thoughts down, or even write some snippets of code
-## Screenshots
-![Alt text]()
 ## Installation
 you can either clone the repo to your desktop and run the app there or you can follow the link bellow to take you to the site and it will allow you to download the file for the app
 ## Usage
